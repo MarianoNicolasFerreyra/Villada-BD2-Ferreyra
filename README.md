@@ -1,2 +1,3 @@
 - [Tarea 17-Nicolas-Ferreyra](./class-17-Indexes-Ferreyra-Nicolas/)
 - [Tarea 18-Nicolas-Ferreyra](./class-18-StoredProcedures-Ferreyra-Nicolas/)
+- [Tarea 19-Nicolas-Ferreyra](./class-19-mysqladministration-Ferreyra-Nicolas/)
